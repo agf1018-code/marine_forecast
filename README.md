@@ -52,3 +52,6 @@ https://mybinder.org/v2/gh/eco4cast/neon4cast-example.git/HEAD?urlpath=rstudio
 
 Andrew Fleming
 email: agf1018@bu.edu
+
+Jack Carroll
+email: jrcarr1@bu.edu
